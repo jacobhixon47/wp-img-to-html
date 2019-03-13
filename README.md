@@ -6,7 +6,7 @@
 
 - drop this script file into root directory of your project
 - have images structured in subdirectories of a larger folder, or change function to suit your file structure
-#### examples:
+  #### examples:
   - `/portfolio/exteriors/exterior.jpg`
   - `/portfolio/interiors/interior.jpg`
 - customize script to suit your needs
